@@ -44,9 +44,11 @@ class Greet:
 
 
 def main():
-    # get user name and clean the name
+    # get user name 
     name: str = input("What's your name? ")
+    # greet object 
     user: Greet = Greet(name)
+    # greet user with hello
     user.hello()
 
 
