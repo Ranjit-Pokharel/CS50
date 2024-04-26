@@ -1,6 +1,6 @@
 """
 Greet user as they pass their name.
-Author: Ranjit-Pokharel
+Github: Ranjit-Pokharel
 E-Mail: rp.ranjitpokharel.pr@gmail.com
 """
 

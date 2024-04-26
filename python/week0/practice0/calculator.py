@@ -1,6 +1,6 @@
 """
 calculator.
-Author: Ranjit-Pokharel
+Github: Ranjit-Pokharel
 E-Mail: rp.ranjitpokharel.pr@gmail.com
 status: inprogress
 """
