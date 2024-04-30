@@ -19,7 +19,7 @@ class PlayBack:
     Methods
     -------
     speed(replace_with: str)->str
-        gives the square of the number
+        replace space with replacer default (...)
     """
     def __init__(self, text: str) -> None:
         """
