@@ -12,7 +12,7 @@ class Calculate:
 
     Methods
     -------
-    square(num: float)
+    square(num: float) -> float
         gives the square of the number
     """
 
