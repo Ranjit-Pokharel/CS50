@@ -102,3 +102,42 @@ output is same but here we pass one argument after the string is joined(concatin
 python document on string [(str)](https://docs.python.org/3/library/stdtypes.html#str) and [print](https://docs.python.org/3/library/functions.html#print)
 in ``print()`` we have some parameters as ``end="\n"`` or ``sep=" "`` which is print new line at end and seperate the given argument
 with space 
+### problem with quotation mark
+```
+print("hello, "friend"")
+```
+output error
+which can be fixed as
+```
+print('hello, "friend"')
+# or
+print("hello, \"friend\"")
+# for using (') it same " ' ' " or ' \' \' ' 
+```
+## formating string
+f is placed in front of string
+```
+name = input("What's your name? ")
+print(f"hello, {name}")
+```
+## more on str
+some of the methodes ``<class 'str'>``
+has are ``strip()`` and ``title()``
+in ``hello.py``
+```
+# ask user for name
+name = input("What's your name? ")
+
+# clean user input strip() clean left and right space where as title make title case for user name
+name = name.strip().title()
+
+# greet user
+print(f"hello, {name}")
+```
+output
+```
+What's your name?          ranjit
+hello, Ranjit
+```
+for more methon on [str](https://docs.python.org/3/library/stdtypes.html#str)
+
