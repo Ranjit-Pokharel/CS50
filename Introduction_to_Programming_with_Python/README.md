@@ -1,4 +1,5 @@
-## content
+## Problem Sets
+- [Practice](./practice/)
 - [Problem Set 0](./pset0/)
 - [Problem Set 1](./pset1/)
 - [Problem Set 2](./pset2/)

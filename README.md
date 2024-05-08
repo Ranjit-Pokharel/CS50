@@ -1,6 +1,6 @@
 # CS50
 Learning programming from cs50
-## Content
+## Problem Sets
 - [Introduction to Programming with Python](./Introduction_to_Programming_with_Python/)
 - [Introduction to Computer Science](./Introduction_to_Computer_Science/)
 - [Web Programming with Python and JavaScript](./Web_Programming_with_Python_and_JavaScript/)
