@@ -65,8 +65,8 @@ now when running the source code
 python hello.py
 ```
 output as
-``
+```
 what's your name? Ranjit
 hello,
 Ranjit
-``
+```
