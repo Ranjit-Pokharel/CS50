@@ -1,14 +1,17 @@
 ## Creating Code with VS Code
-```Terminal
+In Terminal type
+```
 code hello.py
 ```
-type
-```Python
+In hello.py type
+```
 print("hello, world")
 ```
-```Terminal
+In Terminal type
+```
 python hello.py
 ```
-```Output
+Output in Terminal
+```
 hello, world
 ```
