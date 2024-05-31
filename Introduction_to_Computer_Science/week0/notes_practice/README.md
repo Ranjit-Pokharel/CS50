@@ -20,7 +20,7 @@ uses base-2 to count
 computer use 8-bits or 1-byte to represent number 00000000 = 0 and 11111111 = 255
 
 ## ASCII
-[](./extra/ascii.png)
+![](./extra/ascii.png)
 letters are represented using 0 and 1
 ``A`` = 65 (01000001)
 ```
