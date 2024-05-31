@@ -1,8 +1,8 @@
-# CS50
-Learning programming from cs50
-## Problem Sets
-- [Introduction to Programming with Python](./Introduction_to_Programming_with_Python/)
-- [Introduction to Computer Science](./Introduction_to_Computer_Science/)
-- [Web Programming with Python and JavaScript](./Web_Programming_with_Python_and_JavaScript/)
-- [Introduction to Databases with SQL](./Introduction_to_Databases_with_SQL/)
-- [Introduction to Artificial Intelligence with Python](./Introduction_to_Artificial_Intelligence_with_Python/)
+# Welcome to My Github Profile
+Hello! I am Ranjit Pokharel, an aspiring programmer.
+currently learning programming from **CS50** courses offered by **Harvard**.
+These courses are helping me build strong foundation in computer science and software developmenat.
+
+## Courses
+1. [Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
+    - [Practice and Problem Sets](./Introduction_to_Computer_Science/)
