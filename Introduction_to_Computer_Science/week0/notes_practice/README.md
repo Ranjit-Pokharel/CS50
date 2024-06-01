@@ -80,3 +80,20 @@ pseudocode helps in 2 ways
 - help to understand the code
 
 ## Artifical Intelligence
+```sample AI chat bot pseudocode
+1.if say hello
+2.  say hello back
+3.else if say goodbye
+4.  say goodbye back
+5.else if say how are you
+6.  say i am well, what about you
+7.........
+```
+simple conversation takes large number of lines
+``Large Language Modles (LLM)`` looks for pattern in a huge block of language
+Such language models attempt to create a best guess of what words come after one another or alongside one another.
+
+## Scratch
+visual programming language developed my mit
+### practice
+- <iframe src="https://scratch.mit.edu/projects/1030514017/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen>Hello World</iframe>
