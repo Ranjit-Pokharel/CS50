@@ -46,3 +46,11 @@ videos are collection of changing images
 represented with MIDI data
 
 ## Algorithms
+```finding single name in phone book
+step to fing the name = nth step (n)
+1. single page at a time = n steps
+2. two pages at a time = n/2 steps (with fix of some bug)
+3. go to the middle of the phone book and ask, “Is the name I am looking for to the left or to the right?” Then, repeat this process, cutting the problem in half and half and half. = log2 n
+```
+![](./extra/time_vs_size_of_problem.png)
+this all are algorithms
