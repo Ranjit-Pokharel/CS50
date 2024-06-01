@@ -98,3 +98,6 @@ visual programming language developed my mit
 ### practice
 - [Hello, World](https://scratch.mit.edu/projects/1030514017)
 - [Meow](https://scratch.mit.edu/projects/1030515824)
+- [condition_touch](https://scratch.mit.edu/projects/1030517517)
+- [video_meow](https://scratch.mit.edu/projects/1030519308)
+- [practice oscartime](https://scratch.mit.edu/projects/1030519881)
