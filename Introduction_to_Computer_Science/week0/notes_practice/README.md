@@ -47,6 +47,7 @@ represented with MIDI data
 
 ## Algorithms
 ```finding single name in phone book
+maximum speed of the algorithms = big-O notation
 step to fing the name = nth step (n)
 1. single page at a time = n steps
 2. two pages at a time = n/2 steps (with fix of some bug)
@@ -54,3 +55,26 @@ step to fing the name = nth step (n)
 ```
 ![](./extra/time_vs_size_of_problem.png)
 this all are algorithms
+
+## Pseudocode
+pseudocode is human readable version of code
+```pseudocode of contact book (algorithms)
+1.pick up phone book
+2.open middle of phone book
+3.look at the page
+4.if person is on the page
+5.  call person
+6.else if person is earlier of book
+7.  open to middle left of half of book
+8.  go back to line 3
+9.else if person is later of book
+10. open to middle right of half of book
+11. go back to line 3
+12.else
+13. quit
+```
+pseudocode helps in 2 ways
+- think logical to problem in advance
+- help to understand the code
+
+## Artifical Intelligence
