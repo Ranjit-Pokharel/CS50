@@ -1,2 +1,4 @@
-## Introduction
-[Pseudocode](pseudocode.md)
+**[Click to Play](../)**
+# Content
+- ## Introduction
+- ## Pseudocode
